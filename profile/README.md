@@ -8,10 +8,11 @@
 
 ### NeuryxIQ &nbsp;·&nbsp; *Answers, not alerts.*
 
-AI-ready security operations and HIPAA posture for small medical and dental practices. One console that tells you what is wrong, how bad it is, and what to do next, instead of a wall of alerts.
+**The Autonomous Superintelligence Security Platform.** AI-ready security operations and HIPAA posture for small medical and dental practices: one console that tells you what is wrong, how bad it is, and what to do next, instead of a wall of alerts.
 
 - **Free on-premises edition**: one-click Windows installer, runs on your own hardware, human-only or bring-your-own-AI-key. &nbsp;→ **[Download](https://github.com/Amhage-Technology-Group/neuryxiq-releases)**
-- **Managed cloud edition**: hosted, monitored and maintained for you. &nbsp;→ **[neuryxiq.cloud](https://neuryxiq.cloud)**
+- **Support and professional install** for the free edition. &nbsp;→ **[neuryxiq.com/services](https://neuryxiq.com/services/)**
+- **Managed cloud edition**: hosted, monitored and maintained for you, live in about 30 minutes. &nbsp;→ **[neuryxiq.com](https://neuryxiq.com)**
 
 ### Also in development
 
@@ -23,8 +24,8 @@ On-premises editions of these will be published here as they reach release quali
 ---
 
 <p align="center">
-  <a href="https://neuryxiq.cloud">Website</a> &nbsp;·&nbsp;
+  <a href="https://neuryxiq.com">Website</a> &nbsp;·&nbsp;
   <a href="https://github.com/Amhage-Technology-Group/neuryxiq-releases">Downloads</a> &nbsp;·&nbsp;
-  <a href="mailto:hello@neuryxiq.cloud">hello@neuryxiq.cloud</a>
+  <a href="mailto:hello@neuryxiq.com">hello@neuryxiq.com</a>
 </p>
 <p align="center"><sub>NeuryxIQ, InspectryxIQ and AeryxIQ are trademarks of Amhage Technology Group LLC.</sub></p>
