@@ -6,9 +6,9 @@
 
 ---
 
-### NeuryxIQ &nbsp;·&nbsp; *Answers, not alerts.*
+### NeuryxIQ &nbsp;·&nbsp; *The Autonomous Security Platform.*
 
-**The Autonomous Superintelligence Security Platform.** AI-ready security operations and HIPAA posture for small medical and dental practices: one console that tells you what is wrong, how bad it is, and what to do next, instead of a wall of alerts.
+**Powered by AI superintelligence. Answers, not alerts.** Security operations and HIPAA posture for small medical and dental practices: one console that tells you what is wrong, how bad it is, and what to do next, instead of a wall of alerts.
 
 - **Free on-premises edition**: one-click Windows installer, runs on your own hardware, human-only or bring-your-own-AI-key. &nbsp;→ **[Download](https://github.com/Amhage-Technology-Group/neuryxiq-releases)**
 - **Support and professional install** for the free edition. &nbsp;→ **[neuryxiq.com/services](https://neuryxiq.com/services/)**
